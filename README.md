@@ -12,8 +12,10 @@ download the folder and do
 
 which will give you something like
 
-```Longest Word Possible :  isidioid
-Other Possible Words :  ['isidioid', 'diiodid', 'didos', 'dido', 'did', 'di', 'dd', 'd']```
+```
+Longest Word Possible :  isidioid
+Other Possible Words :  ['isidioid', 'diiodid', 'didos', 'dido', 'did', 'di', 'dd', 'd']
+```
 
 ---------------------------
 ###TODO
